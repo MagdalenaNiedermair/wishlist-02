@@ -42,9 +42,9 @@ a{
 }
 
 #startbutton {
-  position: fixed; /* Positionierung fixieren */
-  bottom: 10px;    /* Abstand vom unteren Rand */
-  left: 10px;     /* Abstand vom rechten Rand */
+  position: fixed; 
+  bottom: 10px;   
+  left: 10px;  
 }
 
 #startbutton > a > img {
